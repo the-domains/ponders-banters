@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ponders & Banters ]]></title>
+        <description><![CDATA[Ponders & Banters ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 May 2016 12:03:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Plan for Royal Perth Hospital needed: AMA]]></title>
+            <description><![CDATA[<article><h1>Plan for Royal Perth Hospital needed: AMA</h1><p>The WA AMA says Royal Perth Hospital will fall further into disrepair, with a mere $9 million in funding allocated in 2016-17.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58a10d197bf19e2fff141cc4f9eef7a7bc36e0d0.png"></article>]]></description>
+            <link>https://au.news.yahoo.com/thewest/wa/a/31603576/plan-for-royal-perth-hospital-needed-ama/</link>
+            <guid isPermaLink="false">2527571e-6006-4af5-8abe-440b5fc4f9c5</guid>
+            <pubDate>Sun, 15 May 2016 12:03:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
